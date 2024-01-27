@@ -3,7 +3,19 @@ body {
     background-size: cover; /* Cover the entire viewport */
     background-position: center; /* Center the background image */
     /* Optionally, you can add more CSS properties to customize the background image */
-    background-repeat: repeat-y ;
-    background-repeat: repeat-y 2; 
+}
+#container{
+    background-color: aqua;
+    border: 5px solid rgb(196, 17, 71);
+    margin: 12px;
+    padding: 12px;
+    margin-top: 23px;
+    margin-right: 25px;
+    margin-left: 74px;
+    width: 909.4;
+    height: 170px;
+    width: 970.4;
+    width: 748.4;
+
 
 }
