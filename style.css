@@ -5,6 +5,9 @@ body {
     /* Optionally, you can add more CSS properties to customize the background image */
     background-color: black;
 }
+.firstpara{
+    padding-left: 8px ;
+}
 
 #container{
     background-color: aqua;
