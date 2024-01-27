@@ -1,8 +1,9 @@
 body {
-    background-image: url('img/indexbackground.jpg'); 
+    /* background-image: url('img/indexbackground.jpg');  */
     background-size: cover; /* Cover the entire viewport */
     background-position: center; /* Center the background image */
     /* Optionally, you can add more CSS properties to customize the background image */
+    background-color: black;
 }
 #container{
     background-color: aqua;
